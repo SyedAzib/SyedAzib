@@ -1,13 +1,12 @@
 <div align="center">
 
 # Syed Azib Waseem
-### Data Analyst · ML Engineer · NLP Enthusiast
+### Data Analyst | Python | SQL | Power BI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-azib-waseem-815a01281)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azibwaseem0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedAzib)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SyedAzib&color=0077B5&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=SyedAzib&color=0077B5&style=flat-square&label=Profile+Views)](https://github.com/SyedAzib)
 
 </div>
 
@@ -15,31 +14,29 @@
 
 ## 👨‍💻 About Me
 
-Final year **Computer Science student** with hands-on experience in **data analysis, machine learning, and NLP**. I build real-world end-to-end projects — from data cleaning and EDA to model deployment on Streamlit.
+**Data Analyst** and final year Computer Science student with hands-on experience turning raw data into actionable business insights. I build end-to-end data projects — from cleaning and EDA to interactive dashboards and predictive models.
 
-- 🎯 Targeting a career in **Data Science & ML Engineering**
-- 🤖 Currently deepening skills in **Deep Learning & LangChain**
-- 📊 Experienced in building **business dashboards** with Power BI
+- 📊 Skilled in **Python, SQL, Power BI, and Streamlit**
+- 🔍 Experienced in **EDA, data visualization, and business reporting**
+- 🤖 Building skills in **Machine Learning and predictive analytics**
 - 🌍 Based in **Karachi, Pakistan**
-- 💼 **Open to internships, junior data roles & freelance projects**
-- 📧 Reach me at **azibwaseem0@gmail.com**
+- 💼 **Open to data analyst internships, junior roles & freelance projects**
+- 📧 **azibwaseem0@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**Data & ML**
+**Data Analysis**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-85C1E9?style=for-the-badge&logo=python&logoColor=white)
 
 **Visualization & BI**
 
@@ -52,30 +49,37 @@ Final year **Computer Science student** with hands-on experience in **data analy
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [Smart Summarizer](https://github.com/SyedAzib/Smart-Summarizer)
-> NLP-powered text summarization app built with Python and Streamlit. Users paste any text and get an instant intelligent summary. Deployed live on Streamlit Cloud.
+### 📈 [Job Market Intelligence Dashboard](https://github.com/SyedAzib)
+> End-to-end job market intelligence dashboard with ML salary prediction. Scrapes and analyzes real job market data to uncover hiring trends, top skills in demand, and salary ranges — with an interactive Streamlit dashboard and a trained prediction model.
 
-`Python` `NLP` `NLTK` `Streamlit` `Text Processing`
+`Python` `Pandas` `Scikit-learn` `Streamlit` `Machine Learning` `Data Analysis`
 
 ---
 
 ### 🛒 [Walmart Sales Analysis](https://github.com/SyedAzib/walmart-sales-analysis)
-> End-to-end sales analysis on Walmart data using MySQL and Python. Covers data cleaning, SQL window functions, KPI extraction, and an interactive Power BI dashboard with 9 analytical phases.
+> End-to-end sales analysis on Walmart data using MySQL and Python. Covers data cleaning, SQL window functions, KPI extraction, and an interactive Power BI dashboard across 9 analytical phases.
 
-`Python` `MySQL` `Power BI` `EDA` `Data Analysis`
+`Python` `MySQL` `Power BI` `SQL` `EDA` `Business Intelligence`
+
+---
+
+### 🧠 [Smart Summarizer](https://github.com/SyedAzib/Smart-Summarizer)
+> NLP-powered text summarization app built with Python and Streamlit. Users paste any article or text and receive an intelligent condensed summary instantly. Deployed live on Streamlit Cloud.
+
+`Python` `NLP` `NLTK` `Streamlit` `Text Processing`
 
 ---
 
 ### 🌫️ [Air Quality Insights](https://github.com/SyedAzib/Air-Quality-Insights-EDA)
 > Comprehensive EDA on India's air pollution data — uncovering AQI trends, seasonal patterns, city-level comparisons, and pollutant correlations through rich visualizations.
 
-`Python` `Pandas` `Seaborn` `EDA` `Data Visualization`
+`Python` `Pandas` `Seaborn` `Matplotlib` `EDA`
 
 ---
 
@@ -109,9 +113,9 @@ Final year **Computer Science student** with hands-on experience in **data analy
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **internships, junior data roles, and freelance projects** in data analysis and ML.
+I'm actively looking for **data analyst internships, junior roles, and freelance projects**.
 
-If you have an opportunity or just want to connect — reach out:
+If you have an opportunity or want to collaborate — let's talk:
 
 📧 **azibwaseem0@gmail.com**
 💼 **[LinkedIn](https://www.linkedin.com/in/syed-azib-waseem-815a01281)**
@@ -120,6 +124,6 @@ If you have an opportunity or just want to connect — reach out:
 
 <div align="center">
 
-*"Data is the new oil — but insight is the refinery."*
+*"Without data, you're just another person with an opinion."*
 
-</div>****
+</div>
