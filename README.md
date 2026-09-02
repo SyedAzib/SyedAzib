@@ -69,6 +69,13 @@
 
 ---
 
+### 👥 [HR Attrition Analytics](https://github.com/SyedAzib)
+> End-to-end HR analytics project identifying key drivers of employee attrition. Covers data cleaning, exploratory analysis, and visualization of attrition patterns across departments, salary bands, and tenure — delivering actionable insights for workforce retention.
+
+`Python` `Pandas` `Seaborn` `Matplotlib` `EDA` `HR Analytics`
+
+---
+
 ### 🧠 [Smart Summarizer](https://github.com/SyedAzib/Smart-Summarizer)
 > NLP-powered text summarization app built with Python and Streamlit. Users paste any article or text and receive an intelligent condensed summary instantly. Deployed live on Streamlit Cloud.
 
@@ -80,13 +87,6 @@
 > Comprehensive EDA on India's air pollution data — uncovering AQI trends, seasonal patterns, city-level comparisons, and pollutant correlations through rich visualizations.
 
 `Python` `Pandas` `Seaborn` `Matplotlib` `EDA`
-
----
-
-### 🎵 [Spotify EDA](https://github.com/SyedAzib/Spotify-EDA)
-> Exploratory analysis of Spotify's Top 200 Charts — uncovering artist popularity, genre trends, and audio feature insights from real streaming data.
-
-`Python` `Pandas` `Matplotlib` `EDA` `Music Analytics`
 
 ---
 
