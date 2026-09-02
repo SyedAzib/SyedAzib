@@ -97,13 +97,6 @@
 
 ---
 
-
-## 📊 GitHub Activity
-
-![Azib's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedAzib&theme=tokyo-night&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 I'm actively looking for **data analyst internships, junior roles, and freelance projects**.
