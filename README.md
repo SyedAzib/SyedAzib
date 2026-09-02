@@ -97,17 +97,10 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
+## 📊 GitHub Activity
 
-![Azib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedAzib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedAzib&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SyedAzib&theme=tokyonight&hide_border=true)
-
-</div>
+![Azib's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SyedAzib&theme=tokyo-night&hide_border=true)
 
 ---
 
